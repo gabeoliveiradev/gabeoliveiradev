@@ -47,9 +47,8 @@ Me chamo Gabriel de Oliveira Vasconcelos, tenho 19 anos e sou de São Paulo. Est
     title="REACT" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
-          
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>     
 <img 
     align="left" 
     alt="MySQL"
