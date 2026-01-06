@@ -1,13 +1,11 @@
-# 🎓🧑‍💻 Gabriel Oliveira
-
-
+# Gabriel Oliveira
 
 Me chamo Gabriel de Oliveira Vasconcelos, tenho 19 anos e sou de São Paulo. Estou cursando Ciências da Computação na UNIP e sou um programador apaixonado por tecnologia.
 
-
 ---
 
-### 💻 Linguagens e Tecnologias
+###  Linguagens e Tecnologias
+<br/>
 
 <img 
     align="left" 
@@ -35,6 +33,14 @@ Me chamo Gabriel de Oliveira Vasconcelos, tenho 19 anos e sou de São Paulo. Est
 />
 <img 
     align="left" 
+    alt="REACT"
+    title="REACT" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
@@ -43,11 +49,11 @@ Me chamo Gabriel de Oliveira Vasconcelos, tenho 19 anos e sou de São Paulo. Est
 />
 <img 
     align="left" 
-    alt="REACT"
-    title="REACT" 
+    alt="Java"
+    title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 <img 
     align="left" 
